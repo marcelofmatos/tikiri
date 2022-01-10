@@ -1,20 +1,20 @@
-Tikiri 
+# Tikiri 
 ========
 <br><img src="https://img.shields.io/badge/License-OSL-blue.svg">&nbsp;</br>
 
 O Tikiri é um sistema Open-Source de gestão de Help Desk e Service Desk que permite que seu negócio estreite o relacionamento com seus clientes, resolvendo dúvidas e questões a respeito do produto e/ou serviço. Organize os chamados de suporte, atendimento online e gestão de serviços de TI em um só sistema.
 Em cada recurso, seja de software, treinamento ou material de suporte, buscamos inserir o objetivo principal do produto: aprimorar as relações interpessoais entre cliente-atendentes e atendentes-atendentes para elevar ao máximo o grau de satisfação em ambientes de suporte técnico.
 
-Baseado no Faveo HelpDesk
+# Baseado no Faveo HelpDesk
 --------------------------
 O Tikiri é um "fork" do projeto <a href="https://github.com/ladybirdweb/faveo-helpdesk" target="_blank">Faveo Helpdesk Community</a>, e seguimos a mesma filosofia de software livre e de código aberto. Mais informações você também pode encontrar no site <a href="https://www.faveohelpdesk.com/" target="_blank">faveohelpdesk.com</a>.
 
-O nome Tikiri
+# O nome Tikiri
 --------------------------
 Tikiri, neste caso, faz alusão ao Tiquiri, como é chamado em Roraima e alguns outros estados do Norte do Brasil essa espécie de lagartixa doméstica tropical. O Tiquiri não é venenoso, alimenta-se de insetos, é silencioso e observador. Pode chegar a medir cerca de 17 centímetros, e possui uma capacidade de nadar e escalar muito bem desenvolvida. No nosso caso, escrevemos com “K”, em referência aos Tickets, que é como chamamos as mensagens enviadas ao sistema de gestão de suporte técnico.
 
 
-Requisitos
+# Requisitos
 --------------------------
 To rodar o Tikiri você precisa dos seguintes recursos:
 
@@ -25,18 +25,18 @@ To rodar o Tikiri você precisa dos seguintes recursos:
 	* Web Server Extension: Pretty URLs ou Search Engine Friendly URLs precisar estar habilitadas no seu servidor WEB
 
 
-Créditos
+# Créditos
 --------------------------
 	* Laravel Framework
 	* Admin LTE Theme
 	* Faveo Helpdesk Community
 	* Material-kit
 
-Website
+# Website
 --------------------------
 Visite nosso site para mais informações <a href="https://tikiri.com.br" target="_blank">www.tikiri.com.br</a>
 
-Instalar
+# Instalar
 --------------------------
 
 <p>Siga os passos a seguir para efetuar a instala&ccedil;&atilde;o do sistema:</p>
@@ -117,3 +117,4 @@ Instalar
 
 <p>Nome de usu&aacute;rio: admin<br />
 Senha: tikiri</p>
+
