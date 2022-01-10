@@ -118,3 +118,17 @@ Visite nosso site para mais informações <a href="https://tikiri.com.br" target
 <p>Nome de usu&aacute;rio: admin<br />
 Senha: tikiri</p>
 
+# Instruções para rodar com containers
+
+Requisitos:
+
+  * docker
+  * docker-compose
+  * docker-compose.yml
+
+Para instanciar os containers de webserver e banco de dados:
+
+  docker-compose up -d
+
+Depois que os containers estiverem rodando, seguir com o passo 5 da instalação
+
